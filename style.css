@@ -497,6 +497,10 @@ nav {
     margin-bottom: 60px;
 }
 
+.project {
+    margin-bottom: 48px;
+}
+
 .project__img {
     width: 100%;
     transition: all 600ms ease;
